@@ -903,7 +903,7 @@ from statsmodels.stats.outliers_influence import (
 # ==========================================
 
 EXCEL_FILE = (
-    r"/Daten/Unternehmensdaten.xlsx"
+    "/Daten/Unternehmensdaten.xlsx"
 )
 
 # Falls deine NPS-Spalte anders heißt, hier anpassen.
