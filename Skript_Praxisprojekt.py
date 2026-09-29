@@ -62,7 +62,7 @@ def plot_residuals(fitted_model):
         linestyle="--"
     )
 
-    plt.xlabel("Vorhergesagte Werte")
+    plt.xlabel("Vorhergesagte standardisierte Werte")
     plt.ylabel("Residuen")
 
     plt.title(
